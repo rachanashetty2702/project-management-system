@@ -105,7 +105,7 @@ public class Homepage extends JFrame {
 	
 public void showPieChart(){
         
-        //create dataset
+        //create data set
       DefaultPieDataset barDataset = new DefaultPieDataset( );
       try {
     	  Connection con = DBConnection.getConnection();
@@ -366,7 +366,7 @@ public void showPieChart(){
 		panel_3_6.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent e) {
-				Top_10 project = new Top_10();
+				Project_Resources project = new Project_Resources();
 				project.setVisible(true);
 				dispose();
 			}

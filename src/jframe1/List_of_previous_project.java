@@ -170,7 +170,7 @@ public class List_of_previous_project extends JFrame {
 		JLabel lblNewLabel_1 = new JLabel("  Previous Projects");
 		lblNewLabel_1.setBounds(79, 10, 379, 63);
 		panel_3.add(lblNewLabel_1);
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\rachana\\eclipse-workspace\\Project_Management_System\\icons1\\project-management.png"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\rachana\\eclipse-workspace\\Project_Management_System\\icons1\\check1.png"));
 		lblNewLabel_1.setForeground(new Color(85, 150, 206));
 		lblNewLabel_1.setFont(new Font("Tahoma", Font.BOLD, 30));
 		

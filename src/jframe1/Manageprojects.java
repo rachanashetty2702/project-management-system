@@ -459,14 +459,14 @@ public class Manageprojects extends JFrame {
 		panel_3.setForeground(new Color(85, 150, 206));
 		panel_3.setBorder(new MatteBorder(0, 0, 5, 0, (Color) new Color(85, 150, 206)));
 		panel_3.setBackground(new Color(255, 255, 255));
-		panel_3.setBounds(222, 30, 468, 63);
+		panel_3.setBounds(222, 10, 468, 83);
 		panel_2.add(panel_3);
 		panel_3.setLayout(null);
 		
 		JLabel lblNewLabel_1 = new JLabel(" Manage Projects");
-		lblNewLabel_1.setBounds(79, -10, 379, 63);
+		lblNewLabel_1.setBounds(62, 10, 379, 63);
 		panel_3.add(lblNewLabel_1);
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\rachana\\eclipse-workspace\\Project_Management_System\\icons1\\project.png"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\rachana\\eclipse-workspace\\Project_Management_System\\icons1\\list1.png"));
 		lblNewLabel_1.setForeground(new Color(85, 150, 206));
 		lblNewLabel_1.setFont(new Font("Tahoma", Font.BOLD, 30));
 		
